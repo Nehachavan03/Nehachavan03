@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎓 Computer Engineering Student  <br>☁️ Aspiring Cloud & Software Engineer  <br>💻 Web & Cloud Development Enthusiast  <br><br>🌱 Currently strengthening cloud architecture knowledge and building practical projects<br>
+# About Me:
+🎓 Computer Engineering Student  <br>☁️ Aspiring Cloud & Software Engineer  <br>Cloud Development and AI/ML Enthusiast  <br>🌱 Currently strengthening cloud architecture knowledge and building practical projects<br>
 
 
 ## 🌐 Socials:
