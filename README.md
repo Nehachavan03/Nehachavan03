@@ -60,13 +60,11 @@ I am a **Computer Science Undergraduate** at **DES Pune University** focused on 
 
 ### 👥 Experience & Leadership
 
-*   👩‍💼 **Management Head** — *AWS Student Builder Group (DESPU)* (2025 - Present)
+*   👩‍💼 **Management Head** - *AWS Student Builder Group (DESPU)* (2025 - Present)
     *   Assisted in organizing technical sessions, community events, and student engagement activities.
     *   Coordinated with team members to support technical initiatives and collaborative learning programs.
-*   ⚡ **Student Member** — *IEEE* (Feb 2025 - Feb 2026)
-    *   Participated in technical workshops, peer learning sessions, and technology-focused events.
-    *   Collaborated with student communities to explore emerging technologies and industry trends.
-
+*   ⚡ **Student Member** - *IEEE* (Feb 2025 - Feb 2026)
+    *   Participated in technology-focused events.
 ---
 
 ### 📅 Contribution Grid
@@ -88,5 +86,5 @@ I am a **Computer Science Undergraduate** at **DES Pune University** focused on 
 ---
 
 <p align="center">
-  <i>"Consistency compounds — I focus on improving a little every day rather than chasing quick mastery."</i>
+  <i>"Consistency compounds - I focus on improving a little every day rather than chasing quick mastery."</i>
 </p>
