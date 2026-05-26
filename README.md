@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B57EDC&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate;Cloud+Computing+Enthusiast;AI+%26+ML+Explorer;IEEE+Student+Member" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B57EDC&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate;Cloud+Computing+Enthusiast;AI+%26+ML+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,10 +22,6 @@
   <a href="https://nehachavan-portfolio-five.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-B57EDC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.github.io/github-profile-visitor-counter/badge.svg?username=Nehachavan03&label=PROFILE+VIEWS&color=B57EDC&style=flat-square" alt="Visitor Counter" />
 </p>
 
 ---
@@ -82,10 +78,6 @@ I am a **Computer Science Undergraduate** at **DES Pune University** focused on 
 ---
 
 ### 📊 GitHub Stats
-
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nehachavan03&show_icons=true&bg_color=0d0e15&title_color=B57EDC&text_color=E6E6FA&icon_color=B57EDC&border_color=2e2040&include_all_commits=true&count_private=true)](https://github.com/Nehachavan03) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehachavan03&layout=compact&bg_color=0d0e15&title_color=B57EDC&text_color=E6E6FA&icon_color=B57EDC&border_color=2e2040)](https://github.com/Nehachavan03) |
 
 <p align="center">
   <a href="https://github.com/Nehachavan03">
